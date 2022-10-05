@@ -104,12 +104,12 @@ section
 
 .category i
 {
-    font-size: 40px;
+    font-size: 30px;
     position: absolute;
     left:50%;
     color:#f8f5fd;
     transform: translateX(-50%);
-    top:15px;
+    top:25px;
 }
 
 .category h3
